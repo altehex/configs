@@ -1,0 +1,6 @@
+GRUB_DISTRIBUTOR="Gentoo"
+GRUB_DEFAULT=2 # windows boot manager entry
+GRUB_GFXMODE=1920x1080x32
+GRUB_THEME="/boot/grub/themes/gothic/theme.txt"
+GRUB_DISABLE_LINUX_PARTUUID=false
+GRUB_DISABLE_OS_PROBER=false
